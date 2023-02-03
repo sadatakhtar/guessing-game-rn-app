@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
   inputContainer: {
     marginTop: 100,
     padding: 20,
-    backgroundColor: "#a20956",
+    backgroundColor: "#72063c",
     marginHorizontal: 24,
     borderRadius: 8,
     elevation: 4,
@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     width: "25%",
     textAlign: "center",
     fontSize: 24,
-    backgroundColor: "#1b1d22",
+    // backgroundColor: "#1b1d22",
     padding: 8,
     borderBottomColor: "#ddb52f",
     borderBottomWidth: 2,
